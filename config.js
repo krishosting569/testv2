@@ -67,7 +67,7 @@ global.wm2 = '𝑲𝒓𝒊𝒔𝑩𝒐𝒕𝒛 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `𝑲𝒓𝒊𝒔𝑩𝒐𝒕𝒛-𝑴𝒅`
-global.stickpack = 'Arifzyn'
+global.stickpack = 'KrisBotz-MD'
 global.stickauth = `© 𝑲𝒓𝒊𝒔𝑩𝒐𝒕𝒛-𝑴𝑫`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
@@ -97,7 +97,7 @@ global.psaweria = 'https://saweria.co/krshosting'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 1Bulan IDR 5.000\n├ Permanen IDR 10.000''
+global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
